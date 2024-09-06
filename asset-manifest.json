@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.f05dac15.css",
-    "main.js": "/static/js/main.7768af84.js",
+    "main.css": "/static/css/main.84b5298a.css",
+    "main.js": "/static/js/main.0dd6ddd5.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/RustTexture.jpg": "/static/media/RustTexture.5e6887e59b0aaccdddaa.jpg",
     "static/media/MyPic.png": "/static/media/MyPic.243c191273f9d5f867d4.png",
+    "static/media/DrimLogo.png": "/static/media/DrimLogo.ad15eafeb1da69256d55.png",
     "static/media/BackgroundBlack.png": "/static/media/BackgroundBlack.094b95ffc6172916d0b1.png",
     "static/media/LeoRunGif.gif": "/static/media/LeoRunGif.ab1b2cd7a2f0304c1217.gif",
-    "static/media/DrimLogo.png": "/static/media/DrimLogo.2aabea1525b1e28c109d.png",
     "index.html": "/index.html",
-    "main.f05dac15.css.map": "/static/css/main.f05dac15.css.map",
-    "main.7768af84.js.map": "/static/js/main.7768af84.js.map",
+    "main.84b5298a.css.map": "/static/css/main.84b5298a.css.map",
+    "main.0dd6ddd5.js.map": "/static/js/main.0dd6ddd5.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f05dac15.css",
-    "static/js/main.7768af84.js"
+    "static/css/main.84b5298a.css",
+    "static/js/main.0dd6ddd5.js"
   ]
 }
