@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9284fc80.css",
-    "main.js": "/static/js/main.0dd6ddd5.js",
+    "main.css": "/static/css/main.7ec43cd8.css",
+    "main.js": "/static/js/main.5d7dfe52.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/RustTexture.jpg": "/static/media/RustTexture.5e6887e59b0aaccdddaa.jpg",
     "static/media/MyPic.png": "/static/media/MyPic.243c191273f9d5f867d4.png",
@@ -9,12 +9,12 @@
     "static/media/BackgroundBlack.png": "/static/media/BackgroundBlack.094b95ffc6172916d0b1.png",
     "static/media/LeoRunGif.gif": "/static/media/LeoRunGif.ab1b2cd7a2f0304c1217.gif",
     "index.html": "/index.html",
-    "main.9284fc80.css.map": "/static/css/main.9284fc80.css.map",
-    "main.0dd6ddd5.js.map": "/static/js/main.0dd6ddd5.js.map",
+    "main.7ec43cd8.css.map": "/static/css/main.7ec43cd8.css.map",
+    "main.5d7dfe52.js.map": "/static/js/main.5d7dfe52.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9284fc80.css",
-    "static/js/main.0dd6ddd5.js"
+    "static/css/main.7ec43cd8.css",
+    "static/js/main.5d7dfe52.js"
   ]
 }
